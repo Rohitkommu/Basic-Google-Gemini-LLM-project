@@ -1,6 +1,6 @@
 # Basic LLM Model using Google-Gemini pro
 
-### Created a basic Google-Gemini LLM project using GEMINI-PRO version.
+
 ## ![Screenshot (303)](https://github.com/Rohitkommu/Basic-Google-Gemini-LLM-project/assets/123623873/f66ca8dd-b800-44ec-bdf7-79aa85323327)
 
 
